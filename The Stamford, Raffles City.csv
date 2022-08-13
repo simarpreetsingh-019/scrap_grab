@@ -1,0 +1,527 @@
+,0,1,2
+0,Restaurant Name,Latitude,Longitude
+1,DLLM Lok Lok - The Crescent @ Kallang,1.32887806843701,103.87929386910227
+2,The Square - Furama - Furama Riverfront,1.287767,103.836151
+3,The Hainan Story Chapter One - Hotel Boss,1.305734,103.860136
+4,The Providore - Raffles Place,1.283565484816444,103.8513796
+5,McDonald's - Raffles City,1.2931275367736814,103.85318160000001
+6,Tiong Bahru Bakery - Raffles City Shopping Centre,1.2936927,103.85387909412383
+7,WOK HEY - Raffles City Shopping Centre,1.2933836990812324,103.85343314732972
+8,Stuff'd - Raffles City Shopping Centre,1.2936087469773554,103.85361275408758
+9,Mr. Coconut - The Central,1.288431777,103.8463889
+10,McDonald's - Raffles City,1.2931275367736814,103.85318160000001
+11,Sushi Tei - Raffles City Shopping Centre,1.2941356973028206,103.85322859567668
+12,The Soup Spoon - Raffles Xchange,1.2840148955530282,103.85148115900012
+13,KOI Thé  Express - Raffles City Shopping Centre,1.29333265,103.85357558544861
+14,Toast Box - Raffles City,1.293616,103.853365
+15,Paris Baguette - Raffles City Shopping Centre,1.29416434568665,103.852714702303
+16,Starbucks - The Central,1.288783,103.846599
+17,Treasures Yi Dian Xin - Raffles City,1.2936747,103.8533068
+18,Din Tai Fung - Raffles City Shopping Centre,1.2935571171852445,103.85374433313535
+19,NamNam - Raffles City Shopping Centre,1.293398,103.8533865
+20,A-One Signature - Raffles City Shopping Centre,1.2933282545919838,103.85362054342505
+21,Simply Wrapps - Raffles City Shopping Centre,1.293636,103.85383713333334
+22,Yu Ba Fang - Raffles City Shopping Centre,1.2939760242084537,103.85262156967805
+23,Putien - Raffles City Shopping Centre,1.2943489,103.85312596
+24,Old Chang Kee - Raffles City Shopping Centre,1.29455954780485,103.852910116568
+25,Poulet - Raffles City,1.29333379,103.8537609
+26,Cedele - Raffles City Shopping Centre,1.293703475,103.85338405160114
+27,LiHO Tea - One Raffles Place,1.2845275666666667,103.8512432
+28,Awfully Chocolate - Raffles City Shopping Centre,1.2936120488744223,103.85340574110074
+29,MilkFish - Raffles City Shopping Centre,1.2940838206766188,103.85327326776132
+30,Lee Wee & Brothers - Raffles City Shopping Centre,1.293480289895058,103.85314360931056
+31,Café&Meal MUJI - Raffles City Shopping Centre,1.29434864,103.8531958
+32,Café&Meal MUJI - Raffles City Shopping Centre,1.29434864,103.8531958
+33,Brotzeit - Raffles City Shopping Centre,1.294878,103.85311948
+34,Koji Sushi Bar - Raffles City Shopping Centre,1.2937072751772263,103.85362027739865
+35,Osaka Ohsho - Raffles City,1.2933851647058823,103.853576
+36,Rive Gauche - Raffles City Shopping Centre,1.2935183,103.85344412
+37,Green Signature - Raffles City Shopping Centre,1.2933974333333333,103.85374513913042
+38,Royce' - Raffles City Shopping Centre,1.293539,103.853323
+39,PS.Cafe - Raffles City Shopping Centre,1.2941227786040628,103.85372378791783
+40,MOS Burger - Raffles City Shopping Centre,1.2936109,103.85325879999999
+41,Tarte by Cheryl Koh - Raffles City Shopping Centre,1.29416434568665,103.852714702303
+42,The Coffee Academics - Ocean Financial Centre,1.2832068,103.8518296
+43,Tokyo Milk Cheese Factory - Raffles City Shopping Centre,1.2933859391304348,103.8535249
+44,Hong Kong Sheng Kee Dessert - Raffles City Shopping Centre,1.29332574766552,103.85367782277172
+45,Hang Heung - Raffles City Shopping Centre [Islandwide Delivery],1.2932947111996451,103.8536679
+46,Wine Connection - Raffles City Shopping Centre,1.2938994798590784,103.85328135790093
+47,Subway - The Central,1.2888651,103.8462856
+48,Wine Connection - Raffles City Shopping Centre,1.2938994798590784,103.85328135790093
+49,Hang Heung - Raffles City Shopping Centre [Islandwide Delivery],1.2932947111996451,103.8536679
+50,XW Western Grill - Raffles City Shopping Centre,1.29398442,103.85328279597151
+51,Xing Ji Big Prawn Noodle - Raffles City Shopping Centre,1.2933873,103.85365982
+52,Tenjin - Raffles City Shopping Centre,1.2935717247400618,103.85340010966405
+53,Soi Thai Soi Nice - Raffles City Shopping Centre,1.2934834,103.8541727
+54,Tenjin - Raffles City Shopping Centre,1.2935717247400618,103.85340010966405
+55,Tokyo Sundubu - Raffles City Shopping Centre,1.2933720333333334,103.8540289
+56,Shahi Maharani - Raffles City Shopping Centre,1.2940422,103.85365536603774
+57,Eureka Popcorn - Raffles City,1.2935276778813432,103.85372143476269
+58,Riverside Grilled Fish - Raffles City Shopping Centre,1.2937182,103.85388771111111
+59,Bee Cheng Hiang - Raffles City Shopping Centre,1.2936419489453876,103.853721425
+60,Boost Juice Bars - The Central,1.2890533444986263,103.84681566666667
+61,Boost Juice Bars - The Central,1.2890533444986263,103.84681566666667
+62,O'Coffee Club - Raffles City,1.2935741428571428,103.85343280000001
+63,Da Paolo Gastronomia - Raffles City Shopping Centre,1.293685129694343,103.85340724812492
+64,Teuscher Chocolates (estd. 1932) - Raffles City Shopping Centre [Islandwide Delivery],1.294179,103.853399
+65,Sufood - Raffles City,1.2942256,103.85320227142857
+66,Breadtalk - Raffles City Shopping Centre,1.29408094,103.85321606666668
+67,Breadtalk - Raffles City Shopping Centre,1.29408094,103.85321606666668
+68,Flippin' Good Burgers - Raffles City Shopping Centre,1.29337845044546,103.852722354064
+69,Men House Yamamoto- Hototogisu - Raffles City Shopping Centre,1.29421385,103.85320259091702
+70,Gong Yuan Ma La Tang - Raffles City Shopping Centre,1.29416434568665,103.852714702303
+71,Burger King - The Central,1.2888917183715671,103.84701033333334
+72,KOI Thé  - The Arcade,1.28373342852349,103.85167038
+73,Poke Theory - Change Alley Mall,1.2841943,103.85193480000001
+74,Poke Theory - Change Alley Mall,1.2841943,103.85193480000001
+75,Three Buns - The Quayside,1.290472822774413,103.83948714579282
+76,Arcade Fish Soup - The Heart,1.2782515,103.85271007142858
+77,CHICHA San Chen - The Central,1.2890746,103.846864525
+78,TheJellyHearts - Oub Centre,1.284571274,103.8510471
+79,Maki-San - The Cathay,1.299371,103.84775352
+80,The Soup Spoon Union - Clarke Quay Central,1.2886382847615607,103.8464761299976
+81,The Palace Korean Restaurant - Springleaf Tower,1.2752298,103.8460662
+82,The Tree Cafe - The Cathay,1.2993821,103.84781607471264
+83,The Original Katong Laksa Since 1950s - Chinatown Point,1.285040174200283,103.84476215000001
+84,The Salad Fork - The Central,1.2886429840965832,103.84680417597303
+85,The Kind Bowl - 71 Killiney Road,1.2988997,103.83923146618963
+86,The Sandwich Shop - Hitachi Tower,1.2842471760851975,103.8525017513587
+87,May's Kafe - The Bencoolen,1.301999,103.853241
+88,The Teochew Kitchenette - Queen Street,1.30037413,103.8538811
+89,The Asian Kitchen - Raffles Quay,1.28217102,103.8521339
+90,The Asian Kitchen - Raffles Quay,1.28217102,103.8521339
+91,The Harvest - Oue Downtown Gallery,1.2778310800000001,103.84928275304355
+92,The Salad Shop - UOB Plaza 2,1.28501646306785,103.850796282207
+93,Tsui Wah - The Heeren,1.302467,103.837613
+94,Addictude - The Heart,1.278051725,103.8525452
+95,Huggs Coffee - The Central,1.288927777,103.8460019
+96,Pita Tree - The Heart,1.2783163993471554,103.85253593131358
+97,Mosanco Enchanted Cafe The Rainforest- North Canal Road,1.286980616,103.8469329
+98,Mosanco Enchanted Cafe The Rainforest- North Canal Road,1.286980616,103.8469329
+99,Decker Barbecue - The Quayside #01-17,1.2901215000000001,103.83875279879072
+100,Super Loco - The Quayside #01-13,1.2900383216968834,103.83912871408324
+101,The Glasshouse Chijmes (#01-03),1.2954805,103.85218843
+102,The Naughty Chef - 1 Shenton Way,1.2798413269034192,103.85067755391346
+103,Malaysia Chiak! - The Heart,1.2782743,103.8530224
+104,The Alley - One Raffles Place,1.28495094565484,103.851051262433
+105,Co Nut Ink - Esplanade Theatres On The Bay,1.2891794631220677,103.85536852111693
+106,Marutama Ramen - The Central,1.2889102,103.8463845
+107,4Fingers - The Venue Shoppes,1.32881882214792,103.869618943938
+108,Tapas 24 Singapore - The Quayside,1.2901175464752441,103.83947167237176
+109,Dal.komm Coffee - The Centrepoint,1.3013998,103.83985234
+110,Volks Coffee Co. - The Sail @ Marina Bay,1.28131989,103.8530732
+111,The Autobus - OUE Downtown Gallery,1.276401925,103.84819295
+112,The Whale Tea - City Square Mall,1.311342,103.856466
+113,Anglo Indian Cafe & Bar - The Heart,1.2767276,103.85236416666666
+114,D.o.p Mozzarella Bar & Restaurant - The Quayside #01-04A,1.290087,103.839298
+115,The Feather Blade - Tanjong Pagar Road,1.278359,103.843885
+116,The Social Space - Marina One,1.2775061628535294,103.85390738419716
+117,The Cheese Shop - UE Square,1.2928356,103.8427752
+118,The Oyster Bank - Funan,1.2913241,103.8502878
+119,The Whole Kitchen Bakery Cafe CBD - Robinson Road,1.27901405683428,103.84884548347
+120,The Biryani Bar by Milind Sovani - Ascott Singapore Raffles Place,1.28218681778169,103.85181215708
+121,Group Therapy - Capri by Fraser China Square,1.283873183801476,103.8468889
+122,Mellower Coffee - The Prospex,1.2988321,103.854105
+123,Sabai Fine Thai On The Bay - Customs House,1.2824371,103.8533105
+124,Out of the Bun (OOTB) - 1  Selegie Road,1.3002002620884536,103.84923186167032
+125,Hot Kitchen - The Quality Dining,1.287587658020642,103.84825924194568
+126,The Voice.Taiwanese Cuisine - Marina Bay Financial Centre,1.279054,103.854836
+127,Nando's - The Star Vista,1.306929,103.788295
+128,Colonial Club - The Paragon,1.3036059182704065,103.8352071545541
+129,The Banana Leaf Apolo - Race Course Road,1.30837,103.85106
+130,The Book Cafe - Seng Kee Building,1.2911245386243309,103.83901434047306
+131,The Blue Ginger Restaurant - Tanjong Pagar Road,1.27740361,103.84360970868488
+132,Mun Ting Xiang Tavern - The Plaza,1.29941466,103.8607252
+133,Tendon Kohaku - The Central,1.2891188,103.84683236000001
+134,Sabai Fine Thai On The Bay - Customs House,1.2824371,103.8533105
+135,Ange Bakes Keto Bakery & Cafe - The Adelphi [Islandwide Delivery],1.2912595572981616,103.85148536439601
+136,The Original Katong Laksa 1950 - Chinatown Point,1.285462797,103.8448858
+137,The Southbridge - South Bridge Road,1.283284745,103.84568499999999
+138,365 Juices Bar - The Centrepoint,1.30137406,103.8398234
+139,Ange Bakes Keto Bakery & Cafe - The Adelphi [Islandwide Delivery],1.2912595572981616,103.85148536439601
+140,Xing Hua 兴化 - The Seletar Mall,1.392115075,103.87610279333333
+141,The Southbridge - South Bridge Road,1.283284745,103.84568499999999
+142,The Bettership - The Cathay,1.2993116,103.84772649067465
+143,Swaad - The Art of Saatvik Food - Desker Road,1.308851,103.855468
+144,The Coco Rice,1.285109,103.832564
+145,Shake Shack - Gardens By The Bay,1.283828,103.865289
+146,Awadh - The Centrepoint,1.3022851585563227,103.83970522414731
+147,The Herbal Bar - Republic Plaza,1.283055,103.85118247992993
+148,Boomarang - The Quayside,1.2896373588603824,103.8388270125
+149,Swensen's - The Seletar Mall,1.391116434138565,103.87588052936631
+150,The Coco Rice,1.285109,103.832564
+151,The Original Cuban Sandwich Bros™ - Robinson Suites,1.28090311,103.849731
+152,The Straits Wine Company - UE Square,1.29254110825464,103.842555242697
+153,I’m Kim Korean BBQ - School Of The Arts (SOTA),1.29938635643322,103.848237081377
+154,Arcade Fruits - The Arcade,1.2835804,103.85218859999999
+155,tcc - The Connoisseur Concerto - The Pier@Robertson #01-01,1.2919094,103.84089452576553
+156,Hack It Seafood - The Riverwalk,1.289282,103.848307
+157,Honolulu Cafe - The Centrepoint,1.301641,103.839813
+158,Monster Planet - The Centrepoint,1.3018884442669503,103.83970579748222
+159,The Bravery Cafe - Amoy Street,1.28024549974472,103.846843609623
+160,Ollie Kitchen & Bar - The Centrepoint,1.301655,103.840084
+161,Pratunam by Soi Thai Soi Nice - The Centrepoint,1.30164880854183,103.840131091869
+162,The Super Foodie Paradise™ - Robinson Suites,1.28090311,103.849731
+163,Pratunam by Soi Thai Soi Nice - The Centrepoint,1.30164880854183,103.840131091869
+164,The Dark Gallery - Millenia Walk,1.2924533,103.8597441
+165,Home Of Briyani @ Heart Of The City - Hoe Chiang Road,1.27396,103.84252
+166,The Westin Singapore,1.2783885,103.8513716
+167,The Providore - Groceries - Wisma Atria,1.30368691666882,103.832847655171
+168,Kanda Soba - The Central,1.2892045191924268,103.84689374999999
+169,The Butter Chicken Place real Punjabi Taste - East Coast Road,1.3087241,103.9118668
+170,The House of Robert Timms - Suntec City Mall,1.295069,103.8598283
+171,The Butter Chicken Place real Punjabi Taste - East Coast Road,1.3087241,103.9118668
+172,Kopifellas Plus - The Heart,1.278136,103.852652
+173,The Dim Sum Place - North Bridge Road,1.30389727,103.86016675
+174,The Original Boat Noodle - Thai Street Food (Suntec City Mall),1.295753,103.858898
+175,Free The Robot - Telok Ayer Street,1.2820106,103.848149
+176,The Handburger - Raffles Place MRT Station,1.28317754037895,103.851307840362
+177,Old Seng Choong - The Central,1.2893338450941974,103.84675818934252
+178,The Winery Tapas Bar - Victoria Street,1.2950572493695915,103.85212023951811
+179,Free The Robot - Telok Ayer Street,1.2820106,103.848149
+180,Coco.Cado - The Paragon,1.303796,103.836087
+181,The Handburger - Raffles Place MRT Station,1.28317754037895,103.851307840362
+182,Bob The Burger Builder™ - Robinson Suites,1.28090311,103.849731
+183,The SaladBox - Lavender,1.3082221693660188,103.86230993681488
+184,Hanjip Korean Grill House - The Cannery,1.290099,103.845901
+185,Coffee Hive - The Adelphi,1.291343349,103.8515579
+186,Khushboo – The Fragrance of India - Boat Quay,1.2863083892823266,103.84963455627415
+187,Bob The Burger Builder™ - Robinson Suites,1.28090311,103.849731
+188,The SaladBox - Lavender,1.3082221693660188,103.86230993681488
+189,The Liquor Cabinet - Cross Street Exchange,1.283273572,103.846902
+190,The Cocoa Trees - North Bridge Road,1.294142,103.853102
+191,"The Ritz-Carlton, Millenia Singapore Festive Store - Ritz-Carlton Millenia Singapore [Islandwide Delivery]",1.291182,103.85985
+192,Kopi & Tarts - The Centrepoint,1.302357,103.840142
+193,Kerala Curry Nation @ Kerala Style Curry and Kebab Cuisine in Heat of the City - Jalan Besar,1.30935,103.85757
+194,Lahore Kebab House: The Best Curry & Kebab in Town. Quality Indian and Pakistani Cuisine,1.30935,103.85757
+195,The Royal Kabab & Briyani Authentic Indian British Curry | Kebab Briyani Restaurant - Goldhill Shopping Centre,1.317992,103.843709
+196,Hummus N Curry House� @Scotts Road/ A Authentic Middle Eastern and Modern Indian Restaurent in Heart of the city,1.31811,103.84408
+197,The Grill N Biryani Hut- A Indian B.B.Q & Dum Briyani Restaurent @ located in the Heart of the City,1.30935,103.85757
+198,Butter N Naan Northern Indian Modern Tandoor Cusine @Heart of the City in Central Singapore,1.31806,103.8437
+199,The Great Punjab North Indian Cuisine - Jalan Besar,1.30935,103.85757
+200,The Great Punjab North Indian Cuisine - Jalan Besar,1.30935,103.85757
+201,"The Swad, A Veg / Non Veg Restaurant, In Near East Coast Area - Chancerlodge Complex",1.31466826705395,103.87725223426
+202,The Mint Leaf Of Mumbai @ Scotts Road | Exotic Indian | Kebab | Curry Biryani Restaurant - Goldhill Shopping Centre,1.31811,103.84408
+203,"The Biryani Multi-cuisine @Central Singapore, Authentic Hydrabadi Biryani and Curry Kebab - Chancerlodge Complex",1.3146274666253812,103.87738054956147
+204,New Shah Alam Restaurant - Circular Road,1.2872582456583075,103.84894450942261
+205,ABC Maju Restaurant Pte. Ltd. - Balestier Road,1.321482176438181,103.85309122824049
+206,Oriental Ice Bistro - Urban Lofts,1.3142709,103.85408166666666
+207,Oriental Ice Bistro - Urban Lofts,1.3142709,103.85408166666666
+208,Tiffany Cafe & Restaurant - Furama Singapore Hotel,1.28643915,103.844184
+209,Viet Sea Restaurant - 304 Joo Chiat Road,1.309663,103.902178
+210,The Marmalade Pantry - Peck Seah Street,1.27584876763241,103.84458393726
+211,EAT. - Forum The Shopping Mall,1.3061662,103.82881605
+212,tcc - The Connoisseur Concerto - International Building,1.305928438109774,103.83095993175294
+213,The Addiction Bistro - Seah Street,1.29626,103.85444
+214,The Working Class - Circular Road,1.28712,103.84901
+215,The Marmalade Pantry - Peck Seah Street,1.27584876763241,103.84458393726
+216,EAT. - Forum The Shopping Mall,1.3061662,103.82881605
+217,The Biryani Bar by Milind Sovani - Ascott Singapore Raffles Place,1.28218681778169,103.85181215708
+218,Venchi - The Shoppes at Marina Bay Sands,1.2860394718153145,103.86003526005004
+219,OC Mai - The Bencoolen,1.301982459,103.8532286
+220,The Burger Coy - MND Building Annexe B,1.27887,103.846512
+221,The Grill Knife - Raffles Place MRT Station,1.28463,103.85139
+222,The Beef Station - Tai Thong,1.3287805700969813,103.86937873623543
+223,"Summer Pavilion - The Ritz-Carlton, Millenia Singapore",1.2906636124049067,103.85995790909091
+224,The Ice Cream Bar - 313 @ Somerset,1.3005907814694,103.838367380385
+225,The Beef Station - Tai Thong,1.3287805700969813,103.86937873623543
+226,Let's Eat - The Centrepoint,1.3013534,103.8399355
+227,The Tea Party Express - Singapore Management University,1.2976765,103.8488033
+228,The Mediterranean Deli Turk - Far East Plaza,1.3061058794384712,103.83373863295158
+229,The Public Izakaya 2 - Altez,1.2744693241145615,103.84431083856278
+230,The Wired Monkey SG - Dunlop Street,1.3044,103.85419
+231,The Tea Party Express - Singapore Management University,1.2976765,103.8488033
+232,The Rebel Bar - Stanley Street,1.28042,103.848254
+233,The Tiramisu Hero - Tyrwhitt Road,1.3111213,103.8598408
+234,The Mediterranean Deli Turk - Far East Plaza,1.3061058794384712,103.83373863295158
+235,The Public Izakaya 2 - Altez,1.2744693241145615,103.84431083856278
+236,Shiroi Tonkatsu by Nikukappo - The Central,1.2891268096969242,103.8468598
+237,The Green Collective SG - Funan Mall,1.29106578346931,103.85038604662
+238,Kuriya Japanese Market - The Paragon [Islandwide Delivery],1.303795822,103.8360866
+239,The Marmalade Pantry Petite - Singapore Management University,1.296078,103.850426
+240,The Mask - Circular Road,1.2871178104873982,103.8488807260703
+241,Ricciotti - The Riverwalk,1.2892158391798627,103.84854476261046
+242,The Flip Bistro And Bar - The Daulat By Hotel Calmo,1.30482517681136,103.852760552134
+243,The Clueless Goat - Goldhill Shopping Centre,1.3186689462686843,103.8436226
+244,Harvest Grocery Mart - The Beo Crescent,1.28884,103.827742
+245,Shiroi Tonkatsu by Nikukappo - The Central,1.2891268096969242,103.8468598
+246,The Green Collective SG - Funan Mall,1.29106578346931,103.85038604662
+247,The Malayan Council - Dunlop Street,1.304557,103.854048
+248,The Fat Potato - Robinson Suites,1.28090311,103.849731
+249,Ichiban Bento - The Paragon,1.303795822,103.8360866
+250,Superitto - The Paragon,1.3036657,103.83586765000001
+251,LAC - The Shoppes At Marina Bay Sands,1.2837556625742679,103.85919060822101
+252,88 Chicken - The Venue Shoppes,1.32923,103.86919
+253,Yu Kee Duck Rice - The Star Vista,1.3069127,103.7883239
+254,The Great Mischief - National Gallery Singapore,1.29118311065187,103.851916834359
+255,The Great Mischief - National Gallery Singapore,1.29118311065187,103.851916834359
+256,Grand Cru Wine Concierge - The Fullerton Hotel [Islandwide Delivery],1.2867261057218304,103.85285014824727
+257,L'Entrecôte The Steak & Fries Bistro (Duxton Hill),1.2790609,103.84290680000001
+258,The Coconut Club - 269 Beach Road,1.3005548,103.8602089
+259,Xycd Sichuan Cuisine - The Sail - Marina Bay,1.2812248,103.8530322
+260,Vaishali Minimart - The Garden At Bishan [Islandwide Delivery],1.3640882,103.8313251121011
+261,The Social Kitchen - YMCA Complex,1.2977117,103.8481897
+262,The White Tiffin - Woods Square,1.43527940604291,103.785881013672
+263,The Pasta Project - Duo Galleria,1.300967,103.857847
+264,All The Batter - Avocado Foods At Great World,1.293844460760677,103.83193250642387
+265,Xycd Sichuan Cuisine - The Sail - Marina Bay,1.2812248,103.8530322
+266,Vaishali Minimart - The Garden At Bishan [Islandwide Delivery],1.3640882,103.8313251121011
+267,The Drug Store - The Sail@Marina Bay,1.2807814666666666,103.85253576666666
+268,The White Tiffin - Woods Square,1.43527940604291,103.785881013672
+269,The Mind Cafe - Income At Prinsep,1.29901,103.84961
+270,The Ramen Stall - North Bridge Road,1.3038313,103.86002804117648
+271,The Landmark - Golden Landmark Shopping Centre,1.302277762,103.8581556
+272,Awadh Bar & Bites - The Centrepoint,1.30164880854183,103.840131091869
+273,Daddy's - The Great Madras,1.304963,103.853034
+274,49 Seats - The Centrepoint,1.30188005,103.84012877104075
+275,The Three Anchovies - The Sail @ Marina Bay,1.28117,103.85258
+276,Red Chilli - The Bollywood Spices,1.31911,103.9136
+277,The Asia 2019 - Fortune Centre,1.30052868,103.8520453
+278,Long Beach - The Quayside,1.2897762,103.8391476
+279,Window On The Park - Holiday Inn Singapore Orchard City Centre,1.30268403491618,103.840889768352
+280,The White Label - North Bridge Road,1.30283,103.85915
+281,Majestic Bay Seafood Restaurant - Gardens By The Bay,1.28183170926415,103.865682618385
+282,The Whole Kitchen Bakery Cafe - The Odeon Katong,1.3046188729588266,103.90203915574801
+283,Nature Cafe - The Aperia,1.3096548,103.864163
+284,In Piazza Italian Restaurant & Pizzeria - The Pines Club ,1.3136169,103.8287861
+285,The Ship Restaurant - Shaw Centre,1.306560975,103.83140900000001
+286,The Gong By Drinks&Co - Duo Galleria,1.2995198,103.8573977
+287,The Ship Restaurant - Shaw Centre,1.306560975,103.83140900000001
+288,Baker's Brew Studio - The Paragon #05-K3/K4 [Islandwide Delivery],1.303606,103.835745
+289,Ugly Fowl - The Foundry,1.290851,103.844979
+290,Deli Belly - The Adelphi,1.291403,103.851529
+291,Egnyte - The Foundry,1.290825599,103.8449345
+292,The Goodburger - Coronation Shopping Plaza,1.3237168,103.8104138
+293,The Soup Store - GSH Plaza,1.282973744951613,103.85035983
+294,The Hitsuji Club - Circular Road,1.28637178,103.8491802
+295,Good Old Taste - The Arcade,1.2834970586641046,103.85225179730155
+296,Baker's Brew Studio - The Paragon #05-K3/K4 [Islandwide Delivery],1.303606,103.835745
+297,HeBrews the PLATE - Concorde Shopping Centre,1.28890075779591,103.834611557545
+298,Gangnam Corndog - The Central,1.2893374,103.8467693
+299,Renn Thai - The Cannery,1.289719638472147,103.8456517
+300,Ikigai Izakaya - The Riverwalk,1.288854527,103.8481226
+301,Ramen Hitoyoshi - The Central,1.28878508918305,103.846139892031
+302,Gawler Wine - The Central,1.288677,103.846737
+303,S-City Cafe - The Arcade,1.283680016665972,103.8518725
+304,The Fine Line - Boat Quay,1.28751,103.84922
+305,Good Old Taste - The Arcade,1.2834970586641046,103.85225179730155
+306,The Armoury - South Beach,1.2956440166666665,103.85614648333333
+307,The Lounge at Riviera,1.2860287393844514,103.85407261458276
+308,The Beacon - Marina Square,1.2926702,103.85648520857302
+309,HeBrews the PLATE - Concorde Shopping Centre,1.28890075779591,103.834611557545
+310,The Pack Flame Grill Bar - Kallang Ave,1.3098163,103.864049375
+311,Katachi Sushi - The Capitol Kempinski Hotel,1.2933584099634776,103.8514925819029
+312,That Health Shop @ Arcade - The Arcade,1.28360505878945,103.851907877925
+313,Coyote Ugly Saloon Singapore - The Foundry,1.290628817026995,103.84511765
+314,The Par Club Singapore - Marina Square,1.291289,103.858715
+315,The Tea Crafters - South Bridge Road,1.283194923,103.845685
+316,HeBrews the PLATE - Concorde Shopping Centre,1.28890075779591,103.834611557545
+317,The Gogi Jib Charcoal BBQ House - 72 & 74 Tanjong Pagar Road,1.278703,103.843926
+318,Gabbar Bistro and Bar - The Foundry,1.2908824,103.84565087582025
+319,The Taste of Bharath - High Street Plaza,1.2906387834337985,103.84934126098733
+320,The MeatHouse - Century Square,1.3524514666666667,103.9438368
+321,The Gogi Jib Charcoal BBQ House - 72 & 74 Tanjong Pagar Road,1.278703,103.843926
+322,Priority Pasta by The Priority Club -  Great World City,1.293902277684591,103.83197542186694
+323,Katachi Sushi - The Capitol Kempinski Hotel,1.2933584099634776,103.8514925819029
+324,That Health Shop @ Arcade - The Arcade,1.28360505878945,103.851907877925
+325,Coyote Ugly Saloon Singapore - The Foundry,1.290628817026995,103.84511765
+326,The Par Club Singapore - Marina Square,1.291289,103.858715
+327,The Gogi Jib Charcoal BBQ House - 72 & 74 Tanjong Pagar Road,1.278703,103.843926
+328,L'Entrecôte The Steak & Fries Bistro (Customs House),1.282728,103.853122
+329,Tall Girl Chinese Restaurant - The Sail @ Marina Bay,1.2809780385088345,103.85233312649865
+330,Muchos Nachos by Poke Theory - Change Alley Mall,1.283801,103.852729
+331,The Lounge at Riviera,1.2860287393844514,103.85407261458276
+332,The Beacon - Marina Square,1.2926702,103.85648520857302
+333,The Connoisseur Concerto - Suntec City Mall,1.2949367367965368,103.8594676
+334,King And The Pawn - Purvis Street,1.2962020142857142,103.85553175896027
+335,"Colony - The Ritz-Carlton, Millenia Singapore",1.2906493,103.8599676
+336,EC Wines & Spirits - The Heart,1.2783163993471554,103.85253593131358
+337,Rabbit Carrot Gun - The Heart,1.27825868467122,103.8535373
+338,The Crab Company - Tekka Market #01-4-/41/42/43 [Islandwide Delivery],1.3063622,103.8506605
+339,Kakurega (The Lair) - Smith Street,1.28218,103.84466
+340,Warehouse - The Cannery (Blk 3C #01-09),1.290502342102841,103.84557050000001
+341,New Teck Kee Chicken Rice - The Arcade,1.283564961103504,103.8522335
+342,King And The Pawn - Purvis Street,1.2962020142857142,103.85553175896027
+343,The Corner Grill - Ann Siang Hill,1.2815288,103.8453132
+344,The Salon - Hotel Fort Canning,1.29579000649242,103.845596870679
+345,Kimoto Gastro Bar - The Sail@Marina Bay,1.2810322,103.85293926191054
+346,The Vegan Croissant Co™ - Robinson Suites,1.28090311,103.849731
+347,Cuba Libre Café & Bar - The Foundry,1.2907837891880567,103.84551087183661
+348,The Vegan Burger Co™ - Robinson Suites,1.28090311,103.849731
+349,Three Hands Coffee - The Sail @ Marina Bay,1.281210933,103.8528262
+350,L'Entrecôte The Steak & Fries Bistro (Customs House),1.282728,103.853122
+351,Tall Girl Chinese Restaurant - The Sail @ Marina Bay,1.2809780385088345,103.85233312649865
+352,Muchos Nachos by Poke Theory - Change Alley Mall,1.283801,103.852729
+353,The Corner Grill - Ann Siang Hill,1.2815288,103.8453132
+354,The Salon - Hotel Fort Canning,1.29579000649242,103.845596870679
+355,Kimoto Gastro Bar - The Sail@Marina Bay,1.2810322,103.85293926191054
+356,The Vegan Croissant Co™ - Robinson Suites,1.28090311,103.849731
+357,Cuba Libre Café & Bar - The Foundry,1.2907837891880567,103.84551087183661
+358,Le Fusion - The Pier At Robertson,1.2913906333333334,103.84095015
+359,Kimoto Gastro Bar - The Sail@Marina Bay,1.2810322,103.85293926191054
+360,The Vegan Croissant Co™ - Robinson Suites,1.28090311,103.849731
+361,Cuba Libre Café & Bar - The Foundry,1.2907837891880567,103.84551087183661
+362,The Masses - Beach Garden Hotel,1.297223,103.85668
+363,Sinpopo Grocer - The Paragon #B1-33,1.303431,103.83557383636364
+364,Basque Kitchen by Aitor - The Fullerton Waterboat House,1.2870879,103.8534701
+365,Le Fusion - The Pier At Robertson,1.2913906333333334,103.84095015
+366,Sinpopo Grocer - The Paragon #B1-33,1.303431,103.83557383636364
+367,Kooks Creamery - The Cathay,1.299332193215742,103.8477181
+368,Greenday Singapore - The Quayside,1.290172,103.838973
+369,The Pack Protein & Salad Bar - Aperia Mall,1.3098163,103.864049375
+370,The Tipsy Tavern - Maxwell Chambers,1.277203,103.846274
+371,The Shanghai Meatball Co. @ Cloud Sultan - Mohamed Sultan Road,1.29334,103.84157
+372,The Tipsy Tavern - Maxwell Chambers,1.277203,103.846274
+373,Sedap - The Grill & Burger,1.40196773208768,103.892321631003
+374,The Butcher's Wife - Yong Siak View,1.2828053,103.8302269
+375,The Old Straits Cafe - Selegie Arts Centre,1.3000669,103.8499123
+376,The Super Foodie Paradise - Bendemeer Road,1.31723,103.86321
+377,Kanada-Ya - The Paragon,1.303792,103.83538423333333
+378,Tarts Of The Moon - GR.iD,1.300097723,103.8494051
+379,The Fruits Seller - Yishun Ring Road [Islandwide Delivery],1.4317602,103.82855494825859
+380,The Shanghai Meatball Co. @ Cloud Sultan - Mohamed Sultan Road,1.29334,103.84157
+381,The Butcher's Wife - Yong Siak View,1.2828053,103.8302269
+382,The Super Foodie Paradise - Bendemeer Road,1.31723,103.86321
+383,Kanada-Ya - The Paragon,1.303792,103.83538423333333
+384,Norwegian Salmon Pte. Ltd. - The Quayside🏍,1.2902295,103.8389111
+385,Cafe Coco - Gardens By The Bay,1.2816380199876976,103.86361319995329
+386,The 1872 Clipper Tea Co. - ION Orchard,1.30343057459372,103.831941598397
+387,Kantan By The Sib's - Golden Mile Food Centre,1.30314,103.86388
+388,The Dempsey Project - Dempsey Road,1.3037899981593566,103.80997785515194
+389,The Padang Creamery - Peace Centre,1.30162038778031,103.849376010399
+390,The Rebel Company Cafe & Bar - Serangoon Gardens,1.3650943,103.866183333333
+391,Chutney Mary - Gardens By The Bay,1.2811578,103.86430075
+392,Honeymill - The Paragon,1.30339845,103.8355919
+393,Original Taste Foods - The Bencoolen,1.301999,103.853241
+394,Xing Hua Restaurant - The Bencoolen,1.3020656,103.85353776583712
+395,Mart One Supermarket - The Plaza,1.29943324557851,103.860708654389
+396,Chutney Mary - Gardens By The Bay,1.2811578,103.86430075
+397,Mart One Supermarket - The Plaza,1.29943324557851,103.860708654389
+398,The Community Coffee Bar - Far East Plaza ,1.3079547255954824,103.83405147756933
+399,Honeymill - The Paragon,1.30339845,103.8355919
+400,Original Taste Foods - The Bencoolen,1.301999,103.853241
+401,HAO megamart - The Grandstand,1.3387378455272767,103.7932884857654
+402,Cafe F.M.L (Cafe For.My.Love) - The Plaza,1.2995031,103.86083536774926
+403,EZ Go Mart - The Plaza,1.300165415,103.8604915
+404,The Super Foodie Paradise Express - Bendemeer Road,1.31723,103.86321
+405,Glow at SuperNature - Forum The Shopping Mall,1.3060713928571428,103.82870222623546
+406,26@Marina Bar & Bistro - Gardens By The Bay,1.281505,103.863622
+407,The Public Izakaya - 100AM,1.2745892333333333,103.843848
+408,The Mad Sailors - British Kitchen - Haji Lane,1.30070881343893,103.859159321289
+409,The Cake Shop - City Square Mall,1.311211163,103.8561304
+410,The Public Izakaya - 100AM,1.2745892333333333,103.843848
+411,Gather The Misfits - Rangoon Road,1.3177669,103.8524482
+412,Orient Express Cafe - Gardens By The Bay,1.28183170926415,103.865682618385
+413,The Dempsey Cookhouse & Bar - Dempsey Road,1.305834,103.810333
+414,House Of Sticks 友情客串 - The Plaza,1.29943324557851,103.860708654389
+415,The Fortune Cookie - Kampong Glam Conservation Area,1.3013067680041388,103.85990399517027
+416,The Secret Garden by Zeekri - Kampong Glam Conservation Area,1.30128,103.85962
+417,At The Myo - Everton Park,1.2768737,103.8400891
+418,The Secret Garden by Zeekri - Kampong Glam Conservation Area,1.30128,103.85962
+419,tcc - The Connoisseur Concerto - Shaw House,1.30562876,103.83177859664308
+420,The Fat Mammoth - Jalan Besar,1.30477,103.8549
+421,Priority Panini by The Priority Club - CT Hub 2,1.31148920302878,103.862391515127
+422,The Refinery - King George's Avenue,1.3106186205213004,103.8622591
+423,Thefoodsteps - Bukit Merah View Market [Stall 55],1.2854696,103.8222921
+424,The Cavern - Geylang Road,1.3119370707346405,103.87662275722752
+425,The Cavern - Geylang Road,1.3119370707346405,103.87662275722752
+426,The Fabulous Baker Boy - Aliwal Arts Center,1.302588,103.861078
+427,INDIAN EXPRESS A Brand of The Song Of India - Race Course Road,1.3080099557322018,103.85078057067575
+428,Nayana KPop Cafe - Poiz - The Poiz Centre,1.3318439499999999,103.8687272
+429,Priority Pizza by The Priority Club - Great World City,1.2936524251656305,103.83192929667868
+430,The Beast - Jalan Klapa,1.3043341465214575,103.85970382287961
+431,Nam Kee Pau - The Centrepoint,1.301222,103.83986209999999
+432,Nam Kee Pau - The Centrepoint,1.301222,103.83986209999999
+433,The Nasi Padang By Butterscotch - Sin Ming Ville,1.35693060062937,103.838836719441
+434,Bottles & Bottles - The Centrepoint,1.3016397,103.8398296
+435,The Gyu Bar - Stevens Road,1.313782,103.8282032
+436,The Homecare Shop - Axxel Innovation Centre [Islandwide Delivery],1.3243919533539241,103.87740405026199
+437,The Humble Pie & The Ugly Cake Shop - Wheelock Place,1.30434908763213,103.830354415344
+438,The Humble Pie & The Ugly Cake Shop - Wheelock Place,1.30434908763213,103.830354415344
+439,The 1887 Bar (Spirits & Liquor) - Sims (GrabMart Now)🌟,1.3187185604451912,103.8768443375941
+440,The Homecare Shop - Axxel Innovation Centre [Islandwide Delivery],1.3243919533539241,103.87740405026199
+441,The Pup's Boutique - Silat Avenue,1.27722,103.83106
+442,VitaKids - Forum The Shopping Mall,1.306116319047619,103.8286529
+443,The Showroom - Crawford Lane,1.305255,103.862704
+444,Napolizz Pizza - The Grandstand,1.3377388131701309,103.79354000150127
+445,Yellow Pot Little India - The Vagabond Club,1.30689059723955,103.858401642705
+446,Yellow Pot Little India - The Vagabond Club,1.30689059723955,103.858401642705
+447,Wok The Wok - Rangoon Road,1.313808,103.854076
+448,The Handburger - Kallang Wave Mall,1.303248,103.872937
+449,The Living Well - Tan Tock Seng Hospital,1.321886,103.846277
+450,La Takorea Korean-Mexican Cuisine - The Grandstand #01-20/21/22,1.338577,103.793406
+451,GrateFood - The Paragon #04-48,1.30395525,103.8363077
+452,The King's Kebab - Bendemeer Road,1.31723,103.86321
+453,The King's Kebab - Bendemeer Road,1.31723,103.86321
+454,The Keto Burrata Bowl Co™ - Bendemeer Road,1.31723,103.86321
+455,Crystal Jade Golden Palace - The Paragon,1.3042617424949046,103.83590531027563
+456,The Cuban Sandwich Bro's Express - Bendemeer Road,1.31723,103.86321
+457,The Happy Bounty - River Valley Road,1.29535,103.829952
+458,The Famous Kebab Bazar - Entrepreneur Business Centre 🏍,1.33770639220826,103.902647304201
+459,See's Candies - Forum The Shopping Mall,1.3062791066666666,103.8284133
+460,The Skewer Bar - Havelock Road,1.2894,103.82775
+461,The Good Boys - The Citron,1.3125674,103.85720544285715
+462,See's Candies - Forum The Shopping Mall,1.3062791066666666,103.8284133
+463,The Plattering Co. - Cavan Road,1.31086,103.86163
+464,Yan Ting - The St Regis Singapore,1.30575,103.826048
+465,The King's Kebab Express - Bendemeer Road,1.31723,103.86321
+466,Brasserie Les Saveurs - The St Regis Singapore,1.3056725692307694,103.82604692
+467,The Veg Union - Upper Boon Keng Road,1.314754,103.871677
+468,The Fourty Thieves - CT Hub 2,1.311625954189478,103.86323629142055
+469,Mezza 9 The Shop - Grand Hyatt Singapore,1.3065485,103.8329351
+470,Tanamera Coffee - The Metropolis,1.3059703304056267,103.79162746700399
+471,Elixr Inc Kombucha - The Orchard Food Market,1.3076393605066599,103.8294444645346
+472,Power Pops - Smart City Kitchen @ The Orchard Food Market,1.30736670587372,103.829339138277
+473,The Palms - Singapore Swimming Club,1.297662,103.880939
+474,Elixr Inc Kombucha - The Orchard Food Market,1.3076393605066599,103.8294444645346
+475,The Palms - Singapore Swimming Club,1.297662,103.880939
+476,The Orchard Cafe - Orchard Hotel,1.3080089,103.8281302
+477,Fry The Rice - Goldhill Shopping Centre,1.31811,103.84381
+478,The Old Novena Kitchen (TONK) - Goldhill Shopping Centre,1.3182100980343423,103.84381570000001
+479,Bob The Burger Builder Express - Bendemeer Road,1.31723,103.86321
+480,The Keto Burrata Bowl Co™ Express - Bendemeer Road,1.31723,103.86321
+481,The Peppy Curator - Bukit Merah Central,1.28318621329484,103.816798057051
+482,The Liquor Shop - Geylang Bahru,1.31823,103.87063
+483,The Halia - Cluny Road Ginger Garden,1.3112645795731002,103.81504245
+484,The Pantry - Dempsey Road,1.30534131545695,103.8112572
+485,The Durian Prince - Aljunied Ave 2 [Islandwide Delivery],1.32084189999594,103.887236198658
+486,The Orange Lantern - Aljunied Industrial Estate - Catering,1.321309,103.889973
+487,The Fine Diner - Wintech Centre,1.3263,103.894094
+488,The Fine Diner - Wintech Centre,1.3263,103.894094
+489,The Alchemist Alcohol - Anchorvale Court🏍,1.38775949638693,103.889481210139
+490,The Manhattan Fish Market - Causeway Point,1.4358798422182417,103.78631490469081
+491,The Meatery - Sunset Way [Islandwide Delivery],1.323462,103.767902
+492,Aww The Butcher - Jalan Malu-Malu (Next Day Delivery)🏍,1.443360231,103.8256175
+493,The Meat Club - Chin Bee Ave (Next Day Delivery)🏍,1.334043,103.7142267
+494,Vicky's & The Coffee Shack - Bukit TImah Plaza,1.3387837887285547,103.77878862877488
+495,Aww The Butcher - Jalan Malu-Malu (Next Day Delivery)🏍,1.443360231,103.8256175
+496,The Meat Club - Chin Bee Ave (Next Day Delivery)🏍,1.334043,103.7142267
+497,Saap Saap Thai and Kaffe & Toast - Citylink,1.293114,103.853376
+498,Twelve Cupcakes - One Raffles Place,1.2840524,103.8511598
+499,Old Tea Hut - One Raffles Place,1.2843468846153845,103.8512387
+500,TP Tea - Suntec City,1.2935666,103.8569231
+501,Bali Thai - Suntec City Mall,1.2944095,103.85802657826088
+502,Coucou Hotpot x Tea Mi Tea - Suntec City Mall,1.295349,103.858802
+503,Thunder Tree - Raffles Specialist Centre,1.3012549,103.8567432
+504,Nagara Thai Gold - City Square Mall,1.3115281,103.8569677
+505,East Ocean Teochew Restaurant - Ngee Ann City,1.3024825263157895,103.83461796
+506,Taste Of Thailand - Midview City,1.3577397,103.8336842
+507,Paradise Teochew - Ngee Ann City,1.30257,103.834567
+508,ahan Thai by XJG - City Gate,1.302491,103.862606
+509,Dookki Korean Tteokbokki Buffet - Suntec City Mall,1.294952,103.859432
+510,Bali Thai - Suntec City Mall,1.2944095,103.85802657826088
+511,R&B Tea - Great World City,1.29378,103.831785
+512,Thunder Tree - Raffles Specialist Centre,1.3012549,103.8567432
+513,Coucou Hotpot x Tea Mi Tea - Suntec City Mall,1.295349,103.858802
+514,Nagara Thai Gold - City Square Mall,1.3115281,103.8569677
+515,Roman Tei - Great World City,1.2935864454082804,103.8318104635851
+516,East Ocean Teochew Restaurant - Ngee Ann City,1.3024825263157895,103.83461796
+517,Taste Of Thailand - Midview City,1.3577397,103.8336842
+518,Roman Tei - Great World City,1.2935864454082804,103.8318104635851
+519,East Ocean Teochew Restaurant - Ngee Ann City,1.3024825263157895,103.83461796
+520,Taste Of Thailand - Midview City,1.3577397,103.8336842
+521,Paradise Teochew - Ngee Ann City,1.30257,103.834567
+522,ahan Thai by XJG - City Gate,1.302491,103.862606
+523,Dookki Korean Tteokbokki Buffet - Suntec City Mall,1.294952,103.859432
+524,Real Thai - Changi  City Point,1.334345,103.962107
+525,Zamas River Valley Restaurant - River Valley Road,1.29512472,103.8292538
