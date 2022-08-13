@@ -72,7 +72,7 @@ def autocomplete_response_data(driver, url):
     for value in restaurant_data3:
         name = value["name"]
         address = value["address"]
-        whole = name+", "+address
+        whole = name+" - "+address
         suggested_locations.append(whole)
         
     print("Suggested location sent ")
@@ -81,14 +81,12 @@ def autocomplete_response_data(driver, url):
     return suggested_locations
         
 def scrap_location_data(driver, locations):
-    print(" Time at the locations {} data fetching = {}".format(locations, time_stamp()))
+    print("Time at the locations {} data fetching = {}".format(locations, time_stamp()))
     print("Location : {}  request in progress ".format(locations))
-    response_time_delay = 15
+    response_time_delay = 20
     location_url = locations.replace(",","%2C")
     location_url = location_url.replace(" ","%20")
 
-    
-    print(location_url)
     
     time.sleep(response_time_delay)
     driver.get('https://food.grab.com/sg/en/restaurants?search='+location_url+'&lng=en')
@@ -96,7 +94,7 @@ def scrap_location_data(driver, locations):
     
     while True:
         try:
-            WebDriverWait(driver,30).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="page-content"]/div[4]/div/div/div[2]/div/button'))).click()
+            WebDriverWait(driver,40).until(EC.element_to_be_clickable((By.XPATH,'//*[@id="page-content"]/div[4]/div/div/div[2]/div/button'))).click()
             print("First Click successful")
 
             clicks = 0
@@ -104,11 +102,11 @@ def scrap_location_data(driver, locations):
                 if clicks == 0:
                     print("Entered While loop")
                 try:
-                    time.sleep(12)
+                    time.sleep(15)
                     p=driver.find_element(By.CLASS_NAME,'ant-btn.ant-btn-block')
                     time.sleep(3)
                     p.click()
-                    time.sleep(8)
+                    time.sleep(10)
                     clicks = clicks + 1
                     print("loading page no : ", clicks)
 
@@ -119,7 +117,7 @@ def scrap_location_data(driver, locations):
 
             print("While loop Exit")
 
-            time.sleep(5)
+            time.sleep(10)
             for request in driver.requests:
                 #print("Reached Requests ")
                 if request.response:
@@ -139,44 +137,59 @@ def scrap_location_data(driver, locations):
                         for value in restaurant_data3:
                             restarunt_final_data.append([value["address"]["name"], value["latlng"]["latitude"],
                                                value["latlng"]["longitude"]])
-                            #print(value["address"]["name"], value["latlng"]["latitude"],
-                             #     value["latlng"]["longitude"])
+                            print(value["address"]["name"], value["latlng"]["latitude"],
+                                  value["latlng"]["longitude"])
 
-                        #print()
+                        print()
                 # saving the final data to a csv file
                 df = pd.DataFrame(restarunt_final_data)
                 df.to_csv(locations + '.csv', index=True)
     
         except:
             for request in driver.requests:
-                if(request.response.status_code == "403"):
-                    print("Get request Blocked for {} , will generate new request in 5 mins for next location ".format(locations))
+                if(request.response.status_code == 403):
+                    print("Get request Blocked for {} , will generate next request in 5 mins for next location ".format(locations))
             
-            print("Load button disabled or not found. generating new request")
+            print("Load button disabled or no locations left. generating next request")
             break   
     
-    print(" {} 's request completed ".format(locations))
+    print(" {} 's request completed at {} ".format(locations, time_stamp()))
 
 
 def get_url(driver):
-    response_time_delay = 15
-    new_request_time_delay =300 
+    response_time_delay = 20
+    new_request_time_delay =360 
+    
+    countries = ["id", "ph", "th","vn", "sg", "my"]
+    print("Choose country code to search in :")
+    choice = int(input("\n 1. Indonesia  \n 2. Phillippines  \n 3. Thailand  \n 4. Vietnam  \n 5. Singapore  \n 6. Malaysia \n"))
+    country_code = countries[choice-1]
+    
     location = input("Enter location to search for  ")
+    location = location.replace(",","%2C")
+    location = location.replace(" ","%20")
+    
     time.sleep(5)
-    first_request = "https://food.grab.com/v1/autocomplete?component=country:SG&language=en&transportType=0&keyword="+location + "&limit=10"
-     
-    print("Time at starting of this program = ", time_stamp())
+    
+    first_request = "https://food.grab.com/v1/autocomplete?component=country:"+country_code.upper()+"&language=en&transportType=0&keyword="+location + "&limit=10"
+    print(first_request)
+    
+    print("\n Time at starting of this program = ", time_stamp())
+    
     suggested_locations = autocomplete_response_data(driver, first_request)
     count = 0
-    print("locations we got in auto complete search =  ", suggested_locations)
+    print("\n locations we got in auto complete search =  ", suggested_locations)
     time.sleep(10)
     
     for locations in suggested_locations : 
         count = count+1
         # driver.get('https://food.grab.com/sg/en/restaurants?search=The%20Stamford%2C%20Raffles%20City%20Robinsons%2C%202%20Stamford%20Rd&lng=en')
-        print("Sending {} 's request " , locations)
+        print("\n Sending {} 's request ".format(locations))
         print("request sent at : ", time_stamp())
+        if count == 1  or count == 5: 
+            time.sleep(response_time_delay)
         scrap_location_data(driver, locations)
+        print(" \n \n \n ")
         time.sleep(new_request_time_delay)
         print("New location sent at time  : ", time_stamp())
         print("{} locations done , starting {} ".format(count, count+1))
