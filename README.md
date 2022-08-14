@@ -210,7 +210,7 @@ $ run main.py file
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/simarpreetsing019" target="_blank">Simarpreet Singh</a>
+Made with :heart: by <a href="https://github.com/simarpreetsingh-019" target="_blank">Simarpreet Singh</a>
 
 &#xa0;
 
