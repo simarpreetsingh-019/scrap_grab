@@ -34,6 +34,11 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-approach">Approach</a> &#xa0; | &#xa0;
+  <a href="#desert_island-plan-1">Plan 1</a> &#xa0; | &#xa0;	
+  <a href="#stop_sign-difficulty-faced-during-doing-this">Difficulties Faced</a> &#xa0; | &#xa0;
+  <a href="#stop_sign-difficulty-faced-during-doing-this">Idea for new approach</a> &#xa0; | &#xa0;
+  <a href="#sparkles-approach-2--implementing-new-things">Plan 2</a> &#xa0; | &#xa0;
+  <a href="#dart-golf-results-">Results </a> &#xa0; | &#xa0;	
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -97,7 +102,7 @@ so
 - we can get name, address, latitude and longitude from here, by saving all responses from the search request triggered whenever we click loadmore button, with python, but insure all of the http headers must be same with http headers that in the chrome dev tools
 
 
-### :desert_island: Approach 
+### :desert_island: Plan 1 
 - So since i have to find data from the search request, i have used selenium wire for this for capturing the XHR request, i have used chrome driver as browser.
 - Solution Desgin 
 ```
