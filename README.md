@@ -1,6 +1,6 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Scrapping_FoodGrab" />
-
+   
   &#xa0;
 
 </div>
